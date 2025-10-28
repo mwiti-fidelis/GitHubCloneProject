@@ -1,2 +1,3 @@
 This is the description of my repo
-Modification in main branch.
+
+Modifications in both the main branch and the feature-greeting branch
